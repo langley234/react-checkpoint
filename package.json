@@ -35,5 +35,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langley234/react-checkpoint.git"
+  },
+  "keywords": [
+    "react",
+    "checkpoint"
+  ],
+  "author": "Mike Langenbach & Elijah McEntee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langley234/react-checkpoint/issues"
+  },
+  "homepage": "https://github.com/langley234/react-checkpoint#readme"
 }
